@@ -1,13 +1,12 @@
 
 /**
  * I am part of a team working on a voting system for a tv 
-production company. This class whose instances can 
+production company. This is a class whose instances can 
 store basic details about the votes of a panel of judges for the performance by a 
-single participant on a show. Each instance of this class with hold details of just one 
-participant so other parts of the (imaginary) team will write the code to store multiple 
-instances – one for each participant
+single participant on a show. Each instance of this class holds details of just one 
+participant.
  *
- * @author (Ismail Ibrahim)
+ * @author (Ismail Hendryx)
  */
 public class Judging
 {
